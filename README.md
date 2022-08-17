@@ -29,5 +29,4 @@ The deployed website linked above was deployed using GitHub Pages.
 
 Once deployed the application can be viewed in a desktop web browser.  
 
- ![alt text](assets/images/screenshot.png)
-    
+ ![Screenshot of index.html](./assets/images/screenshot.png)
