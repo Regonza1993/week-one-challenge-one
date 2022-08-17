@@ -29,4 +29,5 @@ The deployed website linked above was deployed using GitHub Pages.
 
 Once deployed the application can be viewed in a desktop web browser.  
 
-Screen Shot 2022-08-17 at 2.07.13 PM.png
+ ![alt text](assets/images/screenshot.png)
+    
